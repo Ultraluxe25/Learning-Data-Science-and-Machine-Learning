@@ -1,1 +1,1 @@
-# Different courses that I compliting while learning Data Science
+# Different courses that I completing while learning Data Science
