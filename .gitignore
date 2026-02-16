@@ -1,0 +1,8 @@
+# Local environments from venv
+env
+
+# VS Code settings
+.vscode
+
+# Qodo extension
+.qodo
