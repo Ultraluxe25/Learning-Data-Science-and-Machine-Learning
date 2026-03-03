@@ -6,3 +6,6 @@ env
 
 # Qodo extension
 .qodo
+
+# Jupyter notebooks
+.ipynb_checkpoints
